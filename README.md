@@ -1,5 +1,3 @@
-goit-js-hw-09
-
 Image gallery
 
 Project Overview
