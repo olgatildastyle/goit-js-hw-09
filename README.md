@@ -2,7 +2,7 @@ goit-js-hw-09
 
 Image gallery
 
-
+Project Overview
 
 This project is an interactive JavaScript application designed to demonstrate practical frontend development skills. It features a dynamic image gallery, a video player with saved playback state, and a feedback form with data persistence. The application focuses on clean code, responsive layout, and user-friendly interaction.
 
